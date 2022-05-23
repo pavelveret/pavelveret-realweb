@@ -18,3 +18,4 @@ https://pavelveret.notion.site/RealWeb-de6c8f773aad48e09dfd2e389537b76c
 
 - data.csv - исходные данные
 - analysis.ipynb - Jupyter Notebook файл с анализом
+- prediction.ipynb - Jupyter Notebook файл с попыткой построить прогнозную модель
